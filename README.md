@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+run flutter application if need seacrh click Search button enter city name or Country name See all details Like Day,weather by hours,Next 7 day Hours Feels like,Humidity,wind,visibility.
 
-A few resources to get you started if this is your first Flutter project:
+Video demo Link
+https://drive.google.com/drive/my-drive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Apk Link
+https://drive.google.com/file/d/1YOS4EHXC87g5oHss9SCh2cgYXLTRQ2Zl/view?usp=sharing
